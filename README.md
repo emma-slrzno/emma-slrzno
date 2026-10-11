@@ -1,8 +1,8 @@
 # 👋 Hi there
 
-I'm **Emma Solórzano Hernández Jáuregui**, a **[Data Analyst]** who turns raw data into business decisions. I work with Python, SQL and Tableau, and I like asking one question first: *what decision will this analysis support?*
+I'm **Emma Solórzano Hernández Jáuregui**, a **Data Analyst** who turns raw data into business decisions. I work with Python, SQL and Tableau, and I like asking one question first: *what decision will this analysis support?*
 
-📍 [City, Country] · 🌎 Bilingual projects (ES/EN)
+📍 Mexico · 🌎 Bilingual projects (ES/EN)
 
 # 🔍 What I do
 
@@ -26,6 +26,7 @@ I'm **Emma Solórzano Hernández Jáuregui**, a **[Data Analyst]** who turns raw
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-2F4F4F?style=for-the-badge)
 
 **Statistics:** Pearson/Spearman correlation · Z-test · Welch's t-test · Chi-square · Cramér's V
+
 **SQL:** CTEs · window functions · cohort analysis · funnels
 
 # 🚀 Featured Projects
@@ -44,4 +45,3 @@ I'm **Emma Solórzano Hernández Jáuregui**, a **[Data Analyst]** who turns raw
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/emma.solorzano7415/vizzes)
 
-> "Without data, you're just another person with an opinion." — W. Edwards Deming
